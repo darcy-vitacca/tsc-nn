@@ -1,0 +1,5 @@
+Super set of JS, allows strcit typing
+Types are always the same types because they are strict, we can change the varaibales not the 
+type.
+Typescript checks are done at the run time and before JS is compiled 
+hence why the code looks the same
